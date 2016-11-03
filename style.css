@@ -1,0 +1,64 @@
+body {
+	
+}
+.topbar {
+	border-top:2px black solid;
+	border-bottom:2px black solid;
+	border-left:2px black solid;
+	border-right:2px black solid;
+	height:150px;
+	width:100%;
+}
+
+.body {
+	width:100%;
+	height:500px;
+}
+
+.main{
+	float:left;
+	width:30%;
+	height:498px;
+}
+
+.longsidebar {
+	border-top:2px black solid;
+	border-bottom:;
+	border-left:2px black solid;
+	border-right:;
+	height:100%;
+	width:100%;
+}
+
+.side {
+	float:right;
+	width:70%;
+	height:500px;
+}
+
+.bigleftbar {
+	border-top:2px black solid;
+	border-bottom:1px black solid;
+	border-left:1px black solid;
+	border-right:2px black solid;
+	height:345px;
+	width:100.2%;
+}
+
+.smallleftbar {
+	border-top:1px black solid;
+	border-bottom:1px black solid;
+	border-left:1px black solid;
+	border-right:2px black solid;
+	height:151px;
+	width:100.2%;
+}
+
+.bottombar {
+	border-top:1px black solid;
+	border-bottom:1px black solid;
+	border-left:2px black solid;
+	border-right:2px black solid;
+	height:150px;
+	width:100%;
+}
